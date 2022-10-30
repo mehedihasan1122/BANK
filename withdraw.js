@@ -44,14 +44,6 @@ document.getElementById('withdraw-button').addEventListener('click', function() 
 
 
 
-
-
-
-
-
-
-
-
     // step-6
     const newBalance = totalBalance - currentWithdrawTotal;
     totalBalanceElement.innerText = newBalance;
